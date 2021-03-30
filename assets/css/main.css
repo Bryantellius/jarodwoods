@@ -464,7 +464,7 @@ input, select, textarea {-moz-appearance: none;
 		.item-image-container {
 		position: relative;
 		width: 100%;
-		opacity: ;}
+		opacity: 1 ;}
 		/*.item-image-container::before {
 		content: '';
 		position: absolute;
