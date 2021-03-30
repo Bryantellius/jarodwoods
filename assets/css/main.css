@@ -70,25 +70,7 @@ input, select, textarea {-moz-appearance: none;
 		font-size: 2rem;}
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
-	.marquee{padding: 0 0 0 0;
-					width: auto;
-					height: auto;
-					overflow: auto;}
-
-	/*.container {
-		overflow: hidden;
-		white-space: nowrap;}
-	  
-	  .scrolling {
-		animation: marquee 20s linear infinite;
-		display: inline-block;
-		padding-right: 0px; }
-	  
-	  @keyframes marquee {
-		from {
-		  transform: translateX(0);}
-		to { 
-		  transform: translateX(-100%);}}*/
+	.marquee{padding: 0 0 0 0;}
 
 	html {
 		font-size: 10pt;}
