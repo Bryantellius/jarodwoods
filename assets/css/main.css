@@ -480,7 +480,7 @@ input, select, textarea {-moz-appearance: none;
 		position: center;
 		width: 100%;
 		height: 80vh;
-		opacity: 0;
+		opacity: 1;
 		display: block;
 		/* transition: property name | duration | timing-function | delay */
 		transition: opacity .05s ease-out .05s;}
