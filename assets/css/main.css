@@ -465,7 +465,7 @@ input, select, textarea {-moz-appearance: none;
 		.item-image-container {
 		position: relative;
 		width: 100%;
-		opacity: 1;}
+		opacity: ;}
 		/*.item-image-container::before {
 		content: '';
 		position: absolute;
@@ -480,7 +480,7 @@ input, select, textarea {-moz-appearance: none;
 		position: center;
 		width: 100%;
 		height: 80vh;
-		opacity: 1;
+		opacity: 0;
 		display: block;
 		/* transition: property name | duration | timing-function | delay */
 		transition: opacity .05s ease-out .05s;}
