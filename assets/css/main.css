@@ -73,7 +73,9 @@ input, select, textarea {-moz-appearance: none;
 	.marquee{padding: 1rem 0 0 0;
 		position: relative;
 		overflow: hidden;
-		box-sizing: initial;
+		white-space: nowrap;
+    	display: inline;
+		width: auto;
 		gap: 0;}
 
 	html {
