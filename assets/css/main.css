@@ -70,7 +70,11 @@ input, select, textarea {-moz-appearance: none;
 		font-size: 2rem;}
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
-	.marquee{padding: 0 0 0 0;}
+	.marquee{padding: 1rem 0 0 0;
+		position: relative;
+		overflow: hidden;
+		box-sizing: initial;
+		gap: 0;}
 
 	html {
 		font-size: 10pt;}
@@ -440,7 +444,7 @@ input, select, textarea {-moz-appearance: none;
 		height: 85vh;
 		max-height: auto;
 		margin: 0 0 0 0;
-		padding: 0 0 0 0;
+		padding: 0 2rem 0 0;
 		opacity: 1;}
 		.slideshow {
 		position: relative;
