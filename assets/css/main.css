@@ -73,6 +73,8 @@ input, select, textarea {-moz-appearance: none;
 	.marquee{padding: 1rem 0 0 0;
 		background-color: white;
 		width: auto;}
+		.bg-header  { position: relative; }
+  		.bg-header .x-cell {position: relative; height: 88px; }
 
 	html {
 		font-size: 10pt;}
