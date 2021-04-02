@@ -75,7 +75,7 @@ input, select, textarea {-moz-appearance: none;
 		position: relative;
 		overflow: hidden;
 		white-space: nowrap;
-		width: 100rem;}
+		width: auto;}
 
 	html {
 		font-size: 10pt;}
