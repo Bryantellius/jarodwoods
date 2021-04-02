@@ -728,6 +728,7 @@ input, select, textarea {-moz-appearance: none;
 		-moz-justify-content: -moz-flex-end;
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
+		background-image:linear-gradient(white, rgb(8, 170, 219), white); ;
 		justify-content: inherit;
 		position: relative;
 		text-align: center;
