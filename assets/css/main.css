@@ -72,8 +72,7 @@ input, select, textarea {-moz-appearance: none;
 	.tab{ margin-left: 1rem;}
 	.marquee{padding: 1rem 0 0 0;
 		background-color: white;
-		width: auto;
-		position: fixed;}
+		width: auto;}
 
 
 	html {
@@ -728,7 +727,8 @@ input, select, textarea {-moz-appearance: none;
 		-ms-justify-content: -ms-flex-end;
 		justify-content: inherit;
 		position: relative;
-		padding-top: 125px;
+		background-color: white;
+		padding-top: auto;
 		text-align: center;
 		overflow-x: hidden;}
 		.banner.style1 .content {
