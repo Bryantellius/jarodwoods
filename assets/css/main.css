@@ -71,15 +71,16 @@ input, select, textarea {-moz-appearance: none;
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
 
-	.marquee{padding: 1rem 0 0 0;
+	.marquee{padding: 0 0 0 0;
 		height: 125px;
 		width: 100%;
 		background-color: white;}
 
 		.myHeader {
-			padding: 1rem 0 0 0;
+			padding: 1rem 0 1rem 0;
+			border: solid;
 			position: fixed;
-			background-color: white;
+			background-color:white;
 			width: 100%;
 			display: block;
 			height: 125px;
