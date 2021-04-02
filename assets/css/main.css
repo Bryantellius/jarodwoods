@@ -72,9 +72,6 @@ input, select, textarea {-moz-appearance: none;
 	.tab{ margin-left: 1rem;}
 	.marquee{padding: 1rem 0 0 0;
 		background-color: white;
-		position: relative;
-		overflow: hidden;
-		white-space: nowrap;
 		width: auto;}
 
 	html {
