@@ -78,7 +78,7 @@ input, select, textarea {-moz-appearance: none;
 		background-color: white;}*/
 
 		.myHeader {
-			padding: 0 0 0 0;
+			padding: 4px 0 0 0;
 			position: fixed;
 			border: solid;
 			background-color:white;
