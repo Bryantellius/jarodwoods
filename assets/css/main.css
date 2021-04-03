@@ -71,18 +71,19 @@ input, select, textarea {-moz-appearance: none;
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
 
-	.marquee{padding: 0 0 0 0;
-		height: 125px;
+	/*.marquee{padding: 0 0 0 0;
+		font-size:  8rem;
+		height: 0;
 		width: 100%;
-		background-color: white;}
+		background-color: white;}*/
 
 		.myHeader {
-			padding: 8px 0 8px 0;
+			padding: 0 0 0 0;
 			position: fixed;
+			border: solid;
 			background-color:white;
 			width: 100%;
 			display: block;
-			height: 125px;
 			top: 0px; 
 			z-index: 1;}
 
