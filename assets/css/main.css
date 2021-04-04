@@ -92,6 +92,11 @@ input, select, textarea {-moz-appearance: none;
 			height: 100px;
 			top: 0px; 
 			z-index: 1;}
+			
+		.img1{
+			list-style-image: url(/images/Logo/accubid_logo.jpg);
+			width: 200; 
+			height: 88;}
 
 
 	html {font-size: 10pt;
