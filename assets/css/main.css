@@ -455,7 +455,7 @@ input, select, textarea {-moz-appearance: none;
 			width: auto;
 			height: auto;
 			overflow: auto; 
-			background: white;
+			background: rgb(187, 168, 168);
 			font-family: Arial;
 			-webkit-font-smoothing: antialiased;
 			font-size: .88rem;}
@@ -749,7 +749,7 @@ input, select, textarea {-moz-appearance: none;
 		-ms-justify-content: -ms-flex-end;
 		justify-content: inherit;
 		position: relative;
-		background-color: white;
+		background-color: rgb(187, 168, 168);
 		padding-top: auto;
 		text-align: center;
 		overflow-x: hidden;}
