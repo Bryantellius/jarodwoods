@@ -845,7 +845,7 @@ input, select, textarea {-moz-appearance: none;
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image:linear-gradient(white, rgb(8, 170, 219), white);
+		background-image:linear-gradient(white, rgb(81, 243, 143), white);
 		position: relative;
 		text-align: center;
 		overflow-x: hidden;}
