@@ -66,20 +66,21 @@ input, select, textarea {-moz-appearance: none;
 		font-family: "Arial";}
 		.border{
 			border: 8px solid grey;
-			padding:1rem 1rem 1rem 1rem;;}
+			padding:1rem 1rem 1rem 1rem;}
 	.field{font-family: "Arial";
 		font-size: 2rem;}
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
 
 		.myHeader {
-			margin: 0 0 0 0;
-			padding: 6px 0 4px 0;
+			margin: auto;
+			padding: 6px 4px 4px 4px;
 			position: fixed;
-			background-color:white;
-			width: 1525px;
+			background-color:green;
+			width: auto;
 			height: 100px;
 			display: block;
+			animation-fill-mode: both;
 			top: 0px; 
 			z-index: 1;}
 
