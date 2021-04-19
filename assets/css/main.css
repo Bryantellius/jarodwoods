@@ -76,13 +76,14 @@ input, select, textarea {-moz-appearance: none;
 			margin: auto;
 			padding: 6px 4px 4px 4px;
 			position: fixed;
-			background-color:green;
+			background-color:white;
 			width: auto;
 			height: 100px;
-			display: block;
-			animation-fill-mode: both;
+			display: inline-block;
 			top: 0px; 
 			z-index: 1;}
+
+			
 
 	html {font-size: 10pt;
 			height: 100%; 
