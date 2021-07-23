@@ -565,6 +565,7 @@ input, select, textarea {-moz-appearance: none;
 				flex-shrink: 1;
 				width: 100%;
 			}
+
 				ul.actions.fit li > * {width: 100%;}
 			ul.actions.fit.stacked {width: 100%;}
 		@media screen and (max-width: 480px) {
