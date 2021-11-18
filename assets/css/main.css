@@ -711,7 +711,7 @@ html, body {
 		-ms-justify-content: -ms-flex-end;
 		justify-content: inherit;
 		position: relative;
-		background-color: black;
+		background-color: white;
 		padding-top: auto;
 		text-align: center;
 		overflow-x: hidden;}
