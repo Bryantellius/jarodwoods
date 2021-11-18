@@ -409,14 +409,16 @@ input, select, textarea {-moz-appearance: none;
 	*{box-sizing: border-box;
 		margin: 0 0 0 0;
 		padding: 0 0 0 0;}
-			html, body {
-			width: auto;
-			height: auto;
-			overflow: auto; 
-			background: grey;
-			font-family: Arial;
-			-webkit-font-smoothing: antialiased;
-			font-size: .88rem;}
+html, body {
+	width: auto;
+	height: auto;
+	overflow: auto;
+	background: white;
+	border: 8px black;
+	font-family: Arial;
+	-webkit-font-smoothing: antialiased;
+	font-size: .88rem;
+}
 		.content-width {
 		width: 100%;
 		max-width: auto;
