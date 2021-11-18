@@ -429,16 +429,18 @@ html, body {
 	padding: 0 2rem 0 0;
 	opacity: 1;
 }
-		.slideshow {
-		position: relative;
-		width: 100%;
-		height: 85vh;
-		display: center;
-		flex-direction: column;
-		-moz-justify-content: center;
-		-webkit-justify-content: center;
-		-ms-justify-content: center;
-		justify-content: center;}
+.slideshow {
+	position: relative;
+	width: 100%;
+	height: 85vh;
+	display: center;
+	border: 8px black;
+	flex-direction: column;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
+}
 		.slideshow-items {
 		position: relative;
 		width: 100%;
