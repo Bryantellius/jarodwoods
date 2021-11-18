@@ -413,7 +413,7 @@ input, select, textarea {-moz-appearance: none;
 			width: auto;
 			height: auto;
 			overflow: auto; 
-			background: white;
+			background: grey;
 			font-family: Arial;
 			-webkit-font-smoothing: antialiased;
 			font-size: .88rem;}
