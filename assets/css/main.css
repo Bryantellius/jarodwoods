@@ -295,7 +295,7 @@ input, select, textarea {-moz-appearance: none;
 		input[type="button"].wide,
 		button.wide,
 		.button.wide {
-			min-width: 14em;}
+			min-width: 8em;}
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
