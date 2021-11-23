@@ -421,6 +421,7 @@ html, body {
 	max-width: auto;
 	height: 85vh;
 	max-height: auto;
+	background: white;
 	margin: 0 0 0 0;
 	padding: 0 1rem 0 0;
 	opacity: 1;
