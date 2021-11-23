@@ -414,18 +414,25 @@ html, body {
 	background: white;
 	font-family: Arial;
 	-webkit-font-smoothing: antialiased;
-	font-size: .88rem;
-}
+	font-size: .88rem;}
 .content-width {
-	width: 100%;
+	width: 120%;
 	max-width: auto;
 	height: 85vh;
 	max-height: auto;
 	background: white;
 	margin: 0 0 0 0;
 	padding: 0 1rem 0 0;
-	opacity: 1;
-}
+	opacity: 1;}
+.content-width1 {
+	width: 80%;
+	max-width: auto;
+	height: 85vh;
+	max-height: auto;
+	background: white;
+	margin: 0 0 0 0;
+	padding: 0 1rem 0 0;
+	opacity: 1;}
 .slideshow {
 	position: relative;
 	width: 100%;
