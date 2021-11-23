@@ -251,7 +251,7 @@ input, select, textarea {-moz-appearance: none;
 		text-transform: uppercase;
 		white-space: nowrap;
 		font-size: 2rem;
-		max-width: auto;
+		max-width: fit-content;
 		height: 2.5em;
 		line-height: 2.5em;
 		border-radius: 1.75em;
@@ -269,7 +269,7 @@ input, select, textarea {-moz-appearance: none;
 		input[type="button"].fit,
 		button.fit,
 		.button.fit {
-			width: 80%;}
+			width: 100%;}
 		input[type="submit"].small,
 		input[type="reset"].small,
 		input[type="button"].small,
