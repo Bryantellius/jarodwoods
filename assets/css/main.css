@@ -86,9 +86,10 @@ input, select, textarea {-moz-appearance: none;
 .myHeader1 {
 	margin: auto;
 	padding: 6px 4px 4px 4px;
-	position: fixed;
+	position: center;
 	background-color: white;
 	width: 100%;
+	max-width: auto;
 	height: 100px;
 	display: inline-block;
 	top: 0px;
