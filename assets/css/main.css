@@ -144,9 +144,9 @@ input, select, textarea {-moz-appearance: none;
 		opacity:1;}
 	h4 {font-family: "Arial black";
 		font-size: 3rem;
-		line-height: 3.5rem;
+		line-height: 40px;
 		text-align: center;
-		padding: 0 0 0 0;}
+		padding: 0 2px 0 0;}
 	h5 {font-family: "Arial";
 		text-align: center;
 		line-height: 1.2;
