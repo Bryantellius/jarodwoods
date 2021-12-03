@@ -82,16 +82,6 @@ input, select, textarea {-moz-appearance: none;
 			display: inline-block;
 			top: 0px; 
 			z-index: 1;}
-    .myHeader1 {
-	margin: auto;
-	padding: 6px 4px 4px 4px;
-	position: fixed;
-	background-color: white;
-	width: auto;
-	height: 150px;
-	display: inline-block;
-	top: 0px;
-	z-index: 1;}
 
 	html {font-size: 10pt;
 			height: 100%; 
@@ -154,7 +144,7 @@ input, select, textarea {-moz-appearance: none;
 		opacity:1;}
 	h4 {font-family: "Arial black";
 		font-size: 3rem;
-		line-height: .75;
+		line-height: 1.2;
 		text-align: center;
 		padding: 0 0 0 0;}
 	h5 {font-family: "Arial";
