@@ -875,17 +875,18 @@ html, body {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	position: relative;
+	background-image: linear-gradient(white, white, white);
+	position: center;
 	text-align: center;
-	overflow-x: hidden;}
+	overflow-x: hidden;
+}
 	.banner.style6 .content {
 		position: relative;
 		width: 100rem;
 		max-width: 100%;
 		height: 100%;
 		margin-bottom: 1rem;
-		z-index: 0;
-	}
+		z-index: 0;}
 
 /* Wrapper (style1) */
 	.wrapper.style1 > .inner {
