@@ -265,7 +265,7 @@ input, select, textarea {-moz-appearance: none;
 		font-size: 2rem;
 		max-width: fit-content;
 		height: 4.5em;
-		line-height: 2.5em;
+		line-height: 4.5em;
 		border-radius: 1.75em;
 		padding: 0 0;
 		text-overflow: ellipsis;
