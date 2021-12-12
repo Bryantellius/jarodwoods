@@ -81,7 +81,7 @@ input, select, textarea {-moz-appearance: none;
 			height: 100px;
 			display: inline-block;
 			top: 0px; 
-			z-index: auto;}
+			z-index: 1;}
 
 .myHeader1 {
 	margin: auto;
