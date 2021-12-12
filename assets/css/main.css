@@ -732,7 +732,7 @@ html, body {
 	justify-content: inherit;
 	position: relative;
 	background-color: white;
-	padding-top: 1px;
+	padding-top: 0;
 	text-align: center;
 	overflow-x: hidden;
 }
