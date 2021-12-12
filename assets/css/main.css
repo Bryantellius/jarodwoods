@@ -751,7 +751,7 @@ html, body {
 			flex-shrink: 0;
 			width: 50%;
 			max-width: 50%;
-			height: 50%;
+			height: 30%;
 			margin: auto;}
 		.banner.style1 .image {
 			-moz-flex-grow: 0;
