@@ -653,7 +653,7 @@ html, body {
 			flex-direction: column;
 			margin-left: 0;}
 			ul.actions1.stacked li {
-				height: 8rem;
+				height: 12rem;
 				padding: 0 0 0 0;}
 				ul.actions1.stacked li:first-child {padding-top: 0;}
 		ul.actions1.fit {
