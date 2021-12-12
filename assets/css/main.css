@@ -46,7 +46,7 @@ input, select, textarea {-moz-appearance: none;
 	@media screen and (max-width: 480px) {
 		html, body {min-width: 320px;}}
 	html {box-sizing: border-box;}
-	*, *:before, *:after {box-sizing: 60rem;}
+	*, *:before, *:after {box-sizing: content-box;}
 	body {padding: 0 0 0 0;
 		margin-top: 100px;
 		background: #d5e2da;}
