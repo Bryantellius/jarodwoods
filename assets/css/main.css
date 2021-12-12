@@ -257,7 +257,7 @@ input, select, textarea {-moz-appearance: none;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
-		letter-spacing: auto;
+		letter-spacing: normal;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
