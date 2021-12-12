@@ -301,7 +301,7 @@ input, select, textarea {-moz-appearance: none;
 			height: 4em;
 			line-height: 4em;
 			border-radius: 4em;
-			padding: 0 3em;}
+			padding: 0 0;}
 		input[type="submit"].wide,
 		input[type="reset"].wide,
 		input[type="button"].wide,
