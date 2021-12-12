@@ -430,7 +430,7 @@ html, body {
 .content-width {
 	width: 100%;
 	max-width: auto;
-	height: 55vh;
+	height: 85vh;
 	max-height: auto;
 	background: white;
 	margin: 0 0 0 0;
@@ -439,7 +439,7 @@ html, body {
 .content-width1 {
 	width: 100%;
 	max-width: auto;
-	height: 55vh;
+	height: 85vh;
 	max-height: auto;
 	background: white;
 	margin: 0 0 0 0;
@@ -810,7 +810,7 @@ html, body {
 					max-width: 100%;
 					height: 20vh;}}
 		.banner.style1.fullscreen {
-			min-height: 60vh;}
+			min-height: 90vh;}
 			@media screen and (orientation: portrait) {
 				.banner.style1.fullscreen .content {
 					min-height: 20vh;}
