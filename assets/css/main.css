@@ -48,7 +48,7 @@ input, select, textarea {-moz-appearance: none;
 	html {box-sizing: border-box;}
 	*, *:before, *:after {box-sizing: 60rem;}
 	body {padding: 0 0 0 0;
-		margin-top: 0px;
+		margin-top: 100px;
 		background: #d5e2da;}
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
