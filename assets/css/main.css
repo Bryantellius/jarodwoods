@@ -730,7 +730,7 @@ html, body {
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
 		justify-content: inherit;
-		position: relative;
+		position: static;
 		background-color: white;
 		padding-top: auto;
 		text-align: center;
