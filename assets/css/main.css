@@ -435,7 +435,7 @@ html, body {
 	padding: 0 1rem 0 0;
 	opacity: 1;}
 .content-width1 {
-	width: 50vh;
+	width: 100%;
 	max-width: auto;
 	height: 85vh;
 	max-height: auto;
