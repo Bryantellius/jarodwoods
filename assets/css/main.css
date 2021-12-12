@@ -778,7 +778,7 @@ html, body {
 				position: relative;
 				width: 50%;
 				height: 50%;
-				border-radius: 0;;}
+				border-radius: 0;}
 		@media screen and (max-width: 1680px) {.banner.style1 .content {padding: 0rem 0rem 0rem 0rem ;}}
 		@media screen and (max-width: 1280px) {.banner.style1 .content {padding: 4rem 4rem 2rem 4rem ;}}
 		@media screen and (max-width: 980px) {.banner.style1 .content {padding: 3.75rem 3rem 1.75rem 3rem ;}}
