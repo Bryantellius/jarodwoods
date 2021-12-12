@@ -59,7 +59,7 @@ input, select, textarea {-moz-appearance: none;
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;}
-		#myName {text-align: center;}*/
+		#myName {text-align: center;}
 /* Type */
 			
 	.johnsClass{
@@ -72,7 +72,7 @@ input, select, textarea {-moz-appearance: none;
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
 
-		.myHeader {
+	.myHeader {
 			margin: auto;
 			padding: 6px 4px 4px 4px;
 			position: fixed;
@@ -83,7 +83,7 @@ input, select, textarea {-moz-appearance: none;
 			top: 0px; 
 			z-index: 1;}
 
-.myHeader1 {
+   .myHeader1 {
 	margin: auto;
 	padding: 6px 4px 4px 4px;
 	position: center;
@@ -120,7 +120,7 @@ input, select, textarea {-moz-appearance: none;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		text-decoration: underline;}
-		a:hover {text-decoration: none;}
+	a:hover {text-decoration: none;}
 	strong, b {font-weight: 400;}
 	em, i {font-style: italic;}
 	p {font-family: "Arial";
@@ -190,7 +190,7 @@ input, select, textarea {-moz-appearance: none;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2rem 0;}
-		pre code {
+	pre code {
 			display: block;
 			line-height: 1.5;
 			padding: 0.75rem 1rem;
@@ -199,7 +199,7 @@ input, select, textarea {-moz-appearance: none;
 		border: 0;
 		border-bottom: solid 1px;
 		margin: 2.5rem 0;}
-		hr.major {
+	hr.major {
 			margin: 3.5rem 0;}
 	.align-center {
 		text-align: center;}
@@ -222,7 +222,7 @@ input, select, textarea {-moz-appearance: none;
 		color: #000000;}
 	a {
 		color: #000000;}
-		a:hover {
+	a:hover {
 			color: #47D3E5;}
 	strong, b {
 		color: #000000;}
@@ -274,14 +274,12 @@ input, select, textarea {-moz-appearance: none;
 		input[type="reset"].icon:before,
 		input[type="button"].icon:before,
 		button.icon:before,
-		.button.icon:before {
-			margin-right: 0.5rem;}
+		.button.icon:before {margin-right: 0.5rem;}
 		input[type="submit"].fit,
 		input[type="reset"].fit,
 		input[type="button"].fit,
 		button.fit,
-		.button.fit {
-			width: 100%;}
+		.button.fit {width: 100%;}
 		input[type="submit"].small,
 		input[type="reset"].small,
 		input[type="button"].small,
@@ -301,7 +299,7 @@ input, select, textarea {-moz-appearance: none;
 			height: 4em;
 			line-height: 4em;
 			border-radius: 4em;
-			padding: 0 0;}
+			padding: 0 3em;}
 		input[type="submit"].wide,
 		input[type="reset"].wide,
 		input[type="button"].wide,
@@ -538,7 +536,7 @@ html, body {
 		.controls ul li {
 		display: inline-block;
 		width: 10px;
-		height: 10px;
+		height: 20px;
 		margin: 3px;
 		background:#bdbdd5;;
 		cursor: pointer;}
