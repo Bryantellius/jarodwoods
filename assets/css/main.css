@@ -732,11 +732,11 @@ html, body {
 		justify-content: inherit;
 		position: static;
 		background-color: white;
-		padding-top: auto;
+		padding-top: 1px;
 		text-align: center;
 		overflow-x: hidden;}
 		.banner.style1 .content {
-			padding: auto ;
+			padding: 1px;
 			-moz-align-self: top;
 			-webkit-align-self: top;
 			-ms-align-self: top;
