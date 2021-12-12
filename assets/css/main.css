@@ -264,8 +264,8 @@ input, select, textarea {-moz-appearance: none;
 		white-space: nowrap;
 		font-size: 2rem;
 		max-width: fit-content;
-		height: 4.5em;
-		line-height: 4.5em;
+		height: 2.5em;
+		line-height: 2.5em;
 		border-radius: 1.75em;
 		padding: 0 0;
 		text-overflow: ellipsis;
@@ -296,8 +296,8 @@ input, select, textarea {-moz-appearance: none;
 		button.large,
 		.button.large {
 			font-size: 0.8rem;
-			height: 4em;
-			line-height: 4em;
+			height: 6em;
+			line-height: 6em;
 			border-radius: 4em;
 			padding: 0 3em;}
 		input[type="submit"].wide,
