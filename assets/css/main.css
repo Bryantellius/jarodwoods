@@ -125,7 +125,7 @@ input, select, textarea {-moz-appearance: none;
 	em, i {font-style: italic;}
 	p {font-family: "Arial";
 		text-align: left;
-		line-height: 1.2;
+		line-height: normal;
 		font-size: 2rem;
 		margin: 0rem 0rem 0rem 0rem;
 		opacity:1;}
