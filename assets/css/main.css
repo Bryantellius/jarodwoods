@@ -859,8 +859,7 @@ html, body {
 	background-image: linear-gradient(white, rgb(81, 243, 143), white);
 	position: relative;
 	text-align: center;
-	overflow-x: hidden;
-}
+	overflow-x: hidden;}
 		.banner.style5 .content {
 			position: relative;
 			width: auto;
