@@ -833,7 +833,7 @@ html, body {
 /* Banner (style5) */
 .banner.style5 {
 	padding: 0 0 0 0;
-	height: auto;
+	height: 100%;
 	background-image: linear-gradient(white, rgb(81, 243, 143), white);
 	position: relative;
 	text-align: center;
