@@ -24,8 +24,7 @@ footer, header, hgroup, menu, nav, section {
 body {line-height: 1;}
 ol, ul {
 	list-style: none;
-	height: 100px;
-}
+	height: 50px;}
 blockquote, q {
 	quotes: none;}
 	blockquote:before, blockquote:after, q:before, q:after {
@@ -422,9 +421,7 @@ input, select, textarea {-moz-appearance: none;
 		color: #47D3E5;}
 
 /* slideshow */
-	*{box-sizing: border-box;
-		margin: 0 0 0 0;
-		padding: 0 0 0 0;}
+	*{box-sizing: border-box;}
 html, body {
 	width: auto;
 	height: auto;
