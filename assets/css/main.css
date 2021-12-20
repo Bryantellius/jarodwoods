@@ -72,8 +72,11 @@ input, select, textarea {-moz-appearance: none;
 	overflow-y: scroll;
 	padding: 1rem 1rem 1rem 1rem;
 }
-	.field{font-family: "Arial";
-		font-size: 2rem;}
+.field {
+	font-family: "Arial";
+	height: 50px;
+	font-size: 2rem;
+}
 	.indent{text-indent: 1rem}
 	.tab{ margin-left: 1rem;}
 
