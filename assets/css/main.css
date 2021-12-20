@@ -73,7 +73,6 @@ input, select, textarea {-moz-appearance: none;
 }
 .field {
 	font-family: "Arial";
-	height: 50px;
 	font-size: 2rem;
 }
 	.indent{text-indent: 1rem}
