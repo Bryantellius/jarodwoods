@@ -424,7 +424,7 @@ input, select, textarea {-moz-appearance: none;
 	*{box-sizing: border-box;}
 html, body {
 	width: auto;
-	height: 100%;
+	height: auto;
 	overflow: auto;
 	background: white;
 	font-family: Arial;
