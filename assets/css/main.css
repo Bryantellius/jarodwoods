@@ -393,9 +393,9 @@ input, select, textarea {-moz-appearance: none;
 		.icon.style2:before {
 			border-radius: 2.75em;
 			display: inline-block;
-			height: 2.75em;
+			height: 2em;
 			line-height: 2.75em;
-			width: 2.75em;}
+			width: 2em;}
 		.icon.major {
 			display: block;
 			margin: 0 0 1rem 0;}
