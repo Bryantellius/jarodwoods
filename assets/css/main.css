@@ -64,9 +64,12 @@ input, select, textarea {-moz-appearance: none;
 			
 	.johnsClass{
 		font-family: "Arial";}
-		.border{
-			border: 8px solid grey;
-			padding:1rem 1rem 1rem 1rem;}
+.border {
+	border: 8px solid grey;
+	height: 600px;
+	overflow-y: scroll;
+	padding: 1rem 1rem 1rem 1rem;
+}
 	.field{font-family: "Arial";
 		font-size: 2rem;}
 	.indent{text-indent: 1rem}
@@ -710,22 +713,6 @@ html, body {
 				padding-right: 0;}
 /* Banner (style1) */
 .banner.style1 {
-	-moz-align-items: -moz-stretch;
-	-webkit-align-items: -webkit-stretch;
-	-ms-align-items: -ms-stretch;
-	align-items: stretch;
-	display: -moz-flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	display: flex;
-	-moz-flex-direction: row;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
-	flex-direction: row;
-	-moz-justify-content: -moz-flex-end;
-	-webkit-justify-content: -webkit-flex-end;
-	-ms-justify-content: -ms-flex-end;
-	justify-content: inherit;
 	position: relative;
 	background-color: white;
 	padding-top: 10px;
