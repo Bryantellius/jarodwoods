@@ -844,18 +844,6 @@ html, body {
 /* Banner (style5) */
 .banner.style5 {
 	padding: 1rem 1rem 1rem 1rem;
-	align-items: center;
-	display: -moz-flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	display: flex;
-	-moz-justify-content: center;
-	-webkit-justify-content: center;
-	-ms-justify-content: center;
-	-moz-align-items: center;
-	-webkit-align-items: center;
-	-ms-align-items: center;
-	justify-content: center;
 	background-image: linear-gradient(white, rgb(81, 243, 143), white);
 	position: relative;
 	text-align: center;
