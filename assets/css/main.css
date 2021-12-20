@@ -713,7 +713,7 @@ html, body {
 		padding-left: 0;}
 		ul.icons li {
 			display: inline-block;
-			padding: 1rem 1rem 1rem 1rem;}
+			padding: 0 0 0 0;}
 			ul.icons li:last-child {
 				padding-right: 0;}
 /* Banner (style1) */
