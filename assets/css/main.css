@@ -859,18 +859,6 @@ html, body {
 /* Banner (style6) */
 .banner.style6 {
 	padding: 1rem 1rem 1rem 1rem;
-	-moz-align-items: center;
-	-webkit-align-items: center;
-	-ms-align-items: center;
-	align-items: center;
-	display: -moz-flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	display: flex;
-	-moz-justify-content: center;
-	-webkit-justify-content: center;
-	-ms-justify-content: center;
-	justify-content: center;
 	background-image: linear-gradient(white, white, white);
 	position: center;
 	text-align: center;
