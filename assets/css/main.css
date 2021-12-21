@@ -714,21 +714,12 @@ html, body {
 				padding-right: 0;}
 /* Banner (style1) */
 .banner.style1 {
-	-moz-align-items: -moz-stretch;
-	-webkit-align-items: -webkit-stretch;
-	-ms-align-items: -ms-stretch;
 	align-items: stretch;
-	display: -moz-flex;
 	display: -webkit-flex;
-	display: -ms-flex;
 	display: flex;
-	-moz-flex-direction: row;
 	-webkit-flex-direction: row;
 	-ms-flex-direction: row;
 	flex-direction: row;
-	-moz-justify-content: -moz-flex-end;
-	-webkit-justify-content: -webkit-flex-end;
-	-ms-justify-content: -ms-flex-end;
 	justify-content: inherit;
 	position: relative;
 	background-color: white;
