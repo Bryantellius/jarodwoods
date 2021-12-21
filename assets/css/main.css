@@ -848,12 +848,13 @@ html, body {
 
 /* Banner (style5) */
 .banner.style5 {
-	padding: 0 0 0 0;
+	padding: 1rem 1rem 1rem 1rem;
 	height: auto;
 	background-image: linear-gradient(white, rgb(81, 243, 143), white);
 	position: relative;
 	text-align: center;
-	overflow-x: auto;}
+	overflow-x: auto;
+}
 		.banner.style5 .content {
 			position: relative;
 			width: 100rem;
